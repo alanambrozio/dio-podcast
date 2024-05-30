@@ -1,10 +1,9 @@
 
-# Projeto artigo técnico gerado por I.A.s
+# Criando um podcast utilizando AI
 
 
 Projeto criado no bootcamp da DIO seguindo as instruções do instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
-<a href="https://web.dio.me/articles/como-comecar-seu-primeiro-projeto-em-python?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
